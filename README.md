@@ -32,7 +32,7 @@ This project helped me practice:
 
 - Building logic that handles edge cases and user input variations
 
-## 🚀 Future Improvements
+## 🚀 Future Improvements (Optional)
 - Add a simple UI to test words in the browser
 
 - Add a version using regex vs. manual logic
