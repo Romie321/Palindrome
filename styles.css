@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #d0b1cf;
+}
+
+.palindrome_checker {
+  background-color: #b58181;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.palindrome_checker h1 {
+  margin-bottom: 20px;
+}
+
+.palindrome_checker input {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  display: block;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.palindrome_checker button {
+  padding: 10px 20px;
+  background-color: #3a73af;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.palindrome_checker button:hover {
+  background-color: #0d5fb7;
+}
+
+.palindrome_checker p {
+  margin-top: 20px;
+  font-size: 1.2em;
+  transition: all 0.3s ease;
+}
+
+.changed {
+  color: #eaea6f;
+  font-weight: bold;
+  font-size: 1.2em;
+  font-family: "Courier New", Courier, monospace;
+}
