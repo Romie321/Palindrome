@@ -1,41 +1,53 @@
 # 🔁 Palindrome Checker
-A JavaScript project built for the FreeCodeCamp JavaScript Algorithms and Data Structures Certification.
-This tool checks whether a given string is a valid palindrome while ignoring punctuation, spacing, and capitalization.
+A clean, JavaScript‑based tool that checks whether a given string is a valid palindrome, ignoring punctuation, spacing, and capitalization. Built as part of the FreeCodeCamp JavaScript Algorithms and Data Structures Certification, this project focuses on algorithmic thinking and string manipulation.
 
-## 🧠 What This Project Does
-- Determines whether a string is a palindrome
+## 🧠 Features
+- Checks if a string is a palindrome
 
 - Ignores non‑alphanumeric characters
 
 - Handles mixed casing, spacing, and punctuation
 
-- Passes all FreeCodeCamp test requirements for the Palindrome Checker project
+- Fully meets FreeCodeCamp project requirements
 
-## 🛠️ Tech Used
-- JavaScript (100% of this project)
+## 🛠️ Technologies Used
+- JavaScript — core logic
 
-## 📂 Files in This Repo
-- script.js — main palindrome‑checking logic
+- HTML & CSS — simple UI structure and styling
 
-- README.md — project documentation
+## 📂 Project Structure
+- index.html — basic UI for user input
 
-- LICENSE — MIT License
+- styles.css — styling for layout and presentation
 
-## 🎯 Purpose of This Project
-This project helped me practice:
+- script.js — palindrome‑checking logic
+
+README.md — project documentation
+
+LICENSE — MIT License
+
+## 🎯 What I Learned
+This project strengthened my understanding of:
 
 - Writing clean, test‑driven JavaScript
 
-- Working with string manipulation and normalization
+- Normalizing and processing user input
 
-- Understanding algorithmic thinking
+- Algorithmic problem‑solving
 
-- Building logic that handles edge cases and user input variations
+- Handling edge cases in string manipulation
 
-## 🚀 Future Improvements (Optional)
-- Add a simple UI to test words in the browser
+## 🚀 Future Improvements
+- Add animations or transitions for results
 
-- Add a version using regex vs. manual logic
+- Add regex‑based and non‑regex versions for comparison
+
+- Add Jest unit tests
+
+- Provide example inputs and outputs
+
+## 📜 License
+This project is licensed under the MIT License.
 
 - Add unit tests using Jest
 
